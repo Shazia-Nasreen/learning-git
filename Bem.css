@@ -1,0 +1,23 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    height: 90vh;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+
+}
+.button{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:  20px;
+    font-weight: 100;
+    background-color: blue;
+    padding-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: lowercase;
+    color: aqua;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
